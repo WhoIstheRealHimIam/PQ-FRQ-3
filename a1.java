@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.HashSet;
 import java.util.Set;
 
-public class act1 {
+public class a1 {
     public int[] findDup(int[] arr) {
 
         Set<Integer> uniqueval = new HashSet<>();
@@ -43,7 +43,7 @@ public class act1 {
 
         }
 
-        act1 obj = new act1();
+        a1 obj = new a1();
 
         int[] result = obj.findDup(input);
 
